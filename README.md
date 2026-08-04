@@ -72,43 +72,6 @@ I'm a backend developer with **3+ years of experience** designing and shipping p
 
 <br>
 
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vipinjarwalpython&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vipinjarwalpython&theme=tokyonight&hide_border=true" width="48%" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipinjarwalpython&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=jupyter%20notebook" width="48%" />
-
-</div>
-
-<br>
-
-## 🏆 Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=vipinjarwalpython&theme=tokyonight&no-frame=true&row=1&column=4)
-
-</div>
-
-<br>
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/vipinjarwalpython/vipinjarwalpython/output/github-contribution-grid-snake.svg" width="100%" />
-
-</div>
-
-> ⚙️ Requires the one-time GitHub Action setup (`snake.yml`) — see the steps I gave you earlier. Until that workflow runs once, this image stays broken by default.
-
-<br>
-
 ## 💼 Featured Projects
 
 <table>
